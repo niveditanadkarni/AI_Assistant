@@ -1,2 +1,2 @@
 # AI_Assistant
-San Jose State Univeristy Master's Project.
+San Jose State Univeristy Capstone Project.
